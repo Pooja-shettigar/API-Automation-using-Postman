@@ -3,12 +3,15 @@ Aimed to automate REST and SOAP api calls using Postman applications and report 
 
 **Project Setups:**
 **Postman download ->** https://www.postman.com/downloads/ 
+
 **Newman Installation ->** https://learning.postman.com/docs/collections/using-newman-cli/installing-running-newman/ 
 
 **Project1 ->** Automation of REST api using Postman
+
 **Project2 ->** Automation of SOAP api using Postman
 
 **Project 1 ->** https://gorest.co.in/
+
 **Project2 ->** http://dneonline.com/calculator.asmx
 
 **Postman functionalities used:**
@@ -27,5 +30,8 @@ Aimed to automate REST and SOAP api calls using Postman applications and report 
 
 **Project Structures:**
 API Collections -> https://github.com/Pooja-shettigar/API-Automation-using-Postman/tree/master/API%20Collections
+
 Testdata -> https://github.com/Pooja-shettigar/API-Automation-using-Postman/tree/master/Testdata
+
 Testreports -> https://github.com/Pooja-shettigar/API-Automation-using-Postman/tree/master/Testreports
+
