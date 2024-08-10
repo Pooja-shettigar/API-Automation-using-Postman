@@ -1,18 +1,17 @@
 **Project Description:**
 Aimed to automate REST and SOAP api calls using Postman applications and report generation using Newman tool
 
+
 **Project Setups:**
+
 **Postman download ->** https://www.postman.com/downloads/ 
 
 **Newman Installation ->** https://learning.postman.com/docs/collections/using-newman-cli/installing-running-newman/ 
 
-**Project1 ->** Automation of REST api using Postman
 
-**Project2 ->** Automation of SOAP api using Postman
+**Project 1 ->** Automation of REST api using Postman, https://gorest.co.in/
 
-**Project 1 ->** https://gorest.co.in/
-
-**Project2 ->** http://dneonline.com/calculator.asmx
+**Project2 ->** Automation of SOAP api using Postman, http://dneonline.com/calculator.asmx
 
 **Postman functionalities used:**
 1. Global, Environment and Collection level variables
@@ -29,6 +28,7 @@ Aimed to automate REST and SOAP api calls using Postman applications and report 
 6. Fuzz testing
 
 **Project Structures:**
+
 API Collections -> https://github.com/Pooja-shettigar/API-Automation-using-Postman/tree/master/API%20Collections
 
 Testdata -> https://github.com/Pooja-shettigar/API-Automation-using-Postman/tree/master/Testdata
