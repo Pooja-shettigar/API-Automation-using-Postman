@@ -1,4 +1,5 @@
 **Project Description:**
+
 Aimed to automate REST and SOAP api calls using Postman applications and report generation using Newman tool
 
 
@@ -10,6 +11,7 @@ Newman Installation -> https://learning.postman.com/docs/collections/using-newma
 
 
 **Project Details:**
+
 Project 1 -> Automation of REST api using Postman, https://gorest.co.in/
 
 Project2 -> Automation of SOAP api using Postman, http://dneonline.com/calculator.asmx
